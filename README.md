@@ -1,5 +1,4 @@
 # reservation-service
-Spring-Boot App using Kotlin
 
 Spring Boot App using Kotlin and the usual Spring annotations.
 
